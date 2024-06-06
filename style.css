@@ -871,9 +871,9 @@ g#monsterbody {
         translate: 50%;
     }
 }
-g#biplane{
+/* g#biplane{
     animation: biplaneAnimation 12s infinite linear !important;
-}
+} */
 
 @keyframes biplaneAnimation {
     0% {
